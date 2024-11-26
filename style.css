@@ -895,11 +895,11 @@
     margin: 0 auto;
     margin-top: 30px;
     width: 90vw;
-    height: 80vh;
+    height: 60vh;
     border: 3px solid rgba(255, 0, 0, 0.137);
     border-bottom: 5px solid rgba(33, 13, 22, 1);
-    border-top-left-radius: 10%;
-    border-top-right-radius: 10%;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
     overflow: hidden;
     position: relative;
   }
@@ -938,7 +938,7 @@
     transform: translate(-50%, -50%);
   }
   .title {
-    font-size: 2.7vmax;
+    font-size: 2.6vmax;
     font-weight: 900;
   }
   .h4-con {
@@ -1056,11 +1056,11 @@
     align-items: center;
   }
   .left {
-    width: 50vw;
+    width: 70vw;
     text-align: center;
   }
   .right {
-    width: 50vw;
+    width: 70vw;
     text-align: center;
   }
   .real-tv {
@@ -1077,9 +1077,9 @@
 
   .video {
     position: absolute;
-    width: 70%;
-    margin-left: 30px;
-    margin-top: 30px;
+    width: 72%;
+    margin-left: 40px;
+    margin-top: 40px;
     transform: scale(0.7);
   }
   .heading {
@@ -1100,9 +1100,9 @@
 
   .video1 {
     position: absolute;
-    width: 60%;
-    margin-left: 30px;
-    margin-top: 20px;
+    width: 66%;
+    margin-left: 40px;
+    margin-top: 28px;
     transform: scale(0.6);
   }
   .cards {
@@ -1113,7 +1113,7 @@
     overflow: hidden;
     overflow-x: scroll;
     scroll-behavior: smooth;
-    transform: scale(0.8);
+    transform: scale(0.7);
   }
 
   .c1 {
@@ -1267,13 +1267,13 @@
   }
   .question {
     width: 90vw;
-    margin: -80% auto;
-    transform: scale(0.5);
+    margin: -90% auto;
+    transform: scale(0.4);
   }
   h5 {
     color: white;
     font-weight: 500;
-    font-size: 20px;
+    font-size: 18px;
   }
   .faq {
     display: flex;
